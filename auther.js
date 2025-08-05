@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://www.odiafilmy4u.fun",
         "https://bollyflix.run",
         "https://kundli100.shop",
+        "https://dktheme.com/mvdrive",
         "https://mirchimovies.xyz",
         "https://netprimemovies.site",
         "https://www.vegamovies-nl.casa",
