@@ -1,11 +1,18 @@
 document.addEventListener('DOMContentLoaded', function() {
     var allowedURLs = [
         "https://vegamoviesnl.in",
+        "https://dktheme.com/vegaclone",
         "https://movies4u.press",
         "https://dhanjeerider.shop/newvega",
         "https://filmflicker25.blogspot.com",
         "https://www.zcflick.in",
         "https://bscnotes.in",
+        "https://dktheme.com/Vg2",
+        "https://dktheme.com/vg3",
+        "https://dktheme.com/hdhbog",
+        "https://dktheme.com/hdhbclone",
+        "https://vegaog.dktheme.com/Lux",
+        "https://dktheme.com/Filmyfly",
         "kasganjnews24.blogspot.com",
         "https://chronobazaar.com",
         "https://www.moviesbox.site",
