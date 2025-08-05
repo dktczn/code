@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://filmflicker25.blogspot.com",
         "https://www.zcflick.in",
         "https://bscnotes.in",
+        "kasganjnews24.blogspot.com",
         "https://chronobazaar.com",
         "https://www.moviesbox.site",
         "https://www.rtibiharnews.in",
