@@ -20,6 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://www.odiafilmy4u.fun",
         "https://bollyflix.run",
         "https://kundli100.shop",
+        "https://hdhub4u4.xyz",
         "https://dktheme.com/mvdrive",
         "https://mirchimovies.xyz",
         "https://netprimemovies.site",
