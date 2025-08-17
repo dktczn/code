@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "https://dailymovies4u.com",
         "https://dktheme.com/Vg2",
         "https://dktheme.com/vg3",
+        "https://armovie.fun",
         "https://dktheme.com/hdhbog",
         "https://dktheme.com/hdhbclone",
         "https://vegaog.dktheme.com/Lux",
