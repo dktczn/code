@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://www.zcflick.in",
     "https://bscnotes.in",
     "https://flixababe.top",
+    "https://www.tekku.online",
     "https://www.hindidubmovies4u.site",
     "https://www.odiafilmy4u.site",
     "https://dailymovies4u.com",
