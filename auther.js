@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://www.zcflick.in",
     "https://www.tamilrockers.fun",
     "https://bscnotes.in",
+    "https://viralmedia49.blogspot.com",
     "https://www.bloggswriter.com",
     "https://flixababe.top",
     "https://www.tekku.online",
