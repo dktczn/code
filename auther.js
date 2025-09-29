@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://dktheme.com/vegaclone",
     "https://movies4u.press",
     "https://vega-movies.wtf",
+    "https://imdbmovies.in",
     "https://netprimemovies4u.cfd",
     "https://commingsoonmovies.online",
     "https://www.moviesbox.site",
