@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://hdhb.dktheme.com",
     "https://imdbmovies.in",
     "https://vegaflix.in",
+    "https://www.vegamovies.uk",
     "https://netprimemovies4u.cfd",
     "https://commingsoonmovies.online",
     "https://www.moviesbox.site",
