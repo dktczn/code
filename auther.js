@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://www.themoviesbangla.xyz",
     "https://dktheme.com/vegaclone",
     "https://movies4u.press",
+    "https://fullvideoslink.xyz",
     "https://vega-movies.wtf",
     "https://hdhb.dktheme.com",
     "https://imdbmovies.in",
