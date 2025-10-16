@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://vegamoviesnl.in",
     "https://www.aagmaal.best",
     "https://www.crckhd.lol",
+    "https://hdhub4u.me",
     "https://m.odiafilmy4u.site",
     "https://www.themoviesbangla.xyz",
     "https://dktheme.com/vegaclone",
