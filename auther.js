@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://www.aagmaal.best",
     "https://www.crckhd.lol",
     "https://hdhub4u.me",
+    "https://techinternshipnews.com",
     "https://m.odiafilmy4u.site",
     "https://www.themoviesbangla.xyz",
     "https://dktheme.com/vegaclone",
