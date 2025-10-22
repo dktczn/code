@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
 "https://vacancynewstimes.in,
 "https://jobnewstodays.in,
 "https://jobsvacancynews.in,
+  "https://vegamovies.cfd",
 "https://currentjobnews.in",
 "https://edujobsnews.in",
   "https://vegamovies.quest",
