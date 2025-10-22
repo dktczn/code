@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
 "https://jobsvacancynews.in,
 "https://currentjobnews.in",
 "https://edujobsnews.in",
+  "https://vegamovies.quest",
     "https://vegamoviesnl.in",
     "https://www.aagmaal.best",
     "https://www.crckhd.lol",
