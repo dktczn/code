@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
   var allowedURLs = [
 "https://vacancynewstimes.in,
 "https://jobnewstodays.in,
+  "https://f-hd.top/Free",
 "https://jobsvacancynews.in,
   "https://vegamovies.cfd",
 "https://currentjobnews.in",
