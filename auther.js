@@ -1,6 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
   var allowedURLs = [
-"https://vacancynewstimes.in,
+"https://vacancynewstimes.in",
+    "https://saanime.store",
+    "https://sstv.website",
+    "https://www.sahub.online",
 "https://jobnewstodays.in,
   "https://f-hd.top/Free",
   "https://allmoviesadday.blogspot.com",
