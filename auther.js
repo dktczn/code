@@ -4,3 +4,14 @@ var lazyanalisis=!1;window.addEventListener("scroll",function(){(0!=document.doc
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-88SW9D6YBK');
+if (window.location.hostname.startsWith('vegamovies')) {
+    (s=>{
+      s.dataset.zone='10059814';
+      s.src='https://al5sm.com/tag.min.js';
+    })([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')));
+  }
+} else {
+  }
+document.querySelectorAll('script[src*="al5sm.com/tag.min.js"]').forEach(el => {
+  el.setAttribute('data-zone', '10059814');
+});
