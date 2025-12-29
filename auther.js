@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
      "https://www.movies4utv.online",
     "https://sstv.website",
 "https://movieclub.sbs",
+     "https://uhdflix.fun",
 "https://movienrg9.blogspot.com",
 "https://refilate.blogspot.com",
     "https://www.sahub.online",
