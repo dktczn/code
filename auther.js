@@ -199,10 +199,10 @@ if (!foundMatch) {
         ">
             <div>
                 <h2>🚫 License Not Active</h2>
-                <p>Your domain is not authorized.</p>
-                <a href="https://t.me/dhanjeerider" target="_blank" 
-                   style="color:#00ffcc;font-size:18px;text-decoration:none;">
-                   Contact DHANJEE Rider
+                <p>Your domain is not authorized. if you are website owner please follow the instructions</p>
+                <a href="https://wbthemes.com/activation/" 
+                   style="color:#00ffcc;font-size:18px;text-decoration:none;"> fill form </a> 
+                   get activated to verify your domain or dm here <a href="https://t.me/dhanjeerider"> for instant aprovel </a>
                 </a>
             </div>
         </div>
