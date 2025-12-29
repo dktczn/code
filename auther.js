@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
      "https://commingsoonmovies.online",
 "https://vacancynewstimes.in",
     "https://saanime.store",
-     "https://www.movies4utv.online/",
+     "https://www.movies4utv.online",
     "https://sstv.website",
 "https://movieclub.sbs",
 "https://movienrg9.blogspot.com",
@@ -150,14 +150,17 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://filmymovies.in",
     "https://local.dktheme.com",
     "https://newspaper.dktheme.com",
-    "https://gl.dktheme.com/",
+    "https://gl.dktheme.com",
     "https://dktheme.com",
+     "https://mvdrive.dktheme.com",
+     "https://lux.dktheme.com",
     "https://discover.dktheme.com",
     "https://www.saanime.store",
     "https://www.sstv.website",
     "https://texhdjrkr.blogspot.com",
     "https://plusuiteme.blogspot.com",
     "https://actrers-biography.blogspot.com",
+     "https://netprimemovies4u.site",
 ];
 
     
