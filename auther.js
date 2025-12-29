@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
      "https://www.movies4utv.online",
     "https://sstv.website",
 "https://movieclub.sbs",
-     "https://uhdflix.fun",
+     "https://uhdfilx.fun",
 "https://movienrg9.blogspot.com",
 "https://refilate.blogspot.com",
     "https://www.sahub.online",
@@ -167,29 +167,36 @@ document.addEventListener('DOMContentLoaded', function() {
     
         var foundMatch = false;
 
-    for (var i = 0; i < allowedURLs.length; i++) {
-        if (window.location.href.startsWith(allowedURLs[i])) {
-            foundMatch = true;
-            break;
-        }
+for (var i = 0; i < allowedURLs.length; i++) {
+    if (window.location.href.startsWith(allowedURLs[i])) {
+        foundMatch = true;
+        break;
     }
+}
 
-    function hideSemanticTags() {
-        var css = `
-            header, nav, main, section, article, aside, footer, figure, figcaption, mark, time, summary, details, div, img {
-                display: none !important;
-            }
-        `;
-        var style = document.createElement('style');
-        style.appendChild(document.createTextNode(css));
-        document.head.appendChild(style);
-    }
+if (!foundMatch) {
+    alert('You need to verify your domain to use this theme. Please contact support.');
 
-    if (foundMatch) {
-        document.querySelector('.buy').style.display = 'none';
-    } else {
-        hideSemanticTags();
-        alert('You need to verify your domain to use this theme. Please contact support.');
-        document.body.innerHTML = `Your License Is Not Active. Contact <a href="https://t.me/dhanjeerider" target="_blank">DHANJEE Rider</a> to get a license.`;
-    }
+    document.body.innerHTML = `
+        <div style="
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            height:100vh;
+            background:#000;
+            color:#fff;
+            text-align:center;
+            font-family:Arial;
+        ">
+            <div>
+                <h2>🚫 License Not Active</h2>
+                <p>Your domain is not authorized.</p>
+                <a href="https://t.me/dhanjeerider" target="_blank" 
+                   style="color:#00ffcc;font-size:18px;text-decoration:none;">
+                   Contact DHANJEE Rider
+                </a>
+            </div>
+        </div>
+    `;
+}
 });
