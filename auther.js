@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     
  var allowedURLs = [
+     "https://commingsoonmovies.online",
 "https://vacancynewstimes.in",
     "https://saanime.store",
      "https://www.movies4utv.online/",
