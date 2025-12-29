@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
  var allowedURLs = [
 "https://vacancynewstimes.in",
     "https://saanime.store",
+     "https://www.movies4utv.online/",
     "https://sstv.website",
 "https://movieclub.sbs",
 "https://movienrg9.blogspot.com",
