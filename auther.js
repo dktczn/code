@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
  var allowedURLs = [
      "https://commingsoonmovies.online",
 "https://vacancynewstimes.in",
+     "https://xprimehub.click",
     "https://saanime.store",
      "https://www.vegamovues.cv",
      "https://www.vegamovues.top",
