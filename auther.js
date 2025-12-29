@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://saanime.store",
      "https://www.movies4utv.online",
     "https://sstv.website",
+     "https://movieshd4u.fun",
 "https://movieclub.sbs",
      "https://uhdfilx.fun",
 "https://movienrg9.blogspot.com",
