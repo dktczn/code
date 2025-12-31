@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://saanime.store",
      "https://www.vegamovies.cv",
      "https://www.vegamovies.top",
+     "https://www.movies4udrive.site",
      "https://www.vegamovies.uk",
      "https://www.vegamovies.cfd",
      "https://www.vegamovies.quest",
