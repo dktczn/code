@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
      "https://commingsoonmovies.online",
 "https://vacancynewstimes.in",
      "https://movies4u.buzz",
+     "https://www.tyatya.shop",
      "https://www.xprimehub.click",
     "https://saanime.store",
      "https://www.vegamovies.cv",
