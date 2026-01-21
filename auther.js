@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
      "https://www.xprimehub.click",
     "https://saanime.store",
      "https://www.vegamovies.cv",
+    "https://www.theaterbliss.top",
      "https://www.vegamovies.top",
      "https://www.movies4udrive.site",
      "https://www.vegamovies.uk",
