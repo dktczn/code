@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
      "https://netprimemovies4u.club",
      "https://www.tyatya.shop",
      "https://www.xprimehub.click",
+     "https://smartessayhub.blogspot.com",
     "https://saanime.store",
      "https://www.vegamovies.cv",
     "https://www.theaterbliss.top",
