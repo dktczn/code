@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
  var allowedURLs = [
      "https://commingsoonmovies.online",
 "https://vacancynewstimes.in",
+     "https://latestmovies4u.com",
      "https://movies4u.buzz",
      "https://netprimemovies4u.club",
      "https://www.tyatya.shop",
