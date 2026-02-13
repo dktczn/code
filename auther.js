@@ -182,6 +182,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://plusuiteme.blogspot.com",
     "https://actrers-biography.blogspot.com",
      "https://netprimemovies4u.site",
+     "https://kagoj.in",
 ];
 
     
