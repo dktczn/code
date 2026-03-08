@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
  var allowedURLs = [
      "https://commingsoonmovies.online",
+     "https://hdhub4u.press",
      "https://www.saanime.fun",
 "https://vacancynewstimes.in",
      "https://hd4fly.rf.gd",
