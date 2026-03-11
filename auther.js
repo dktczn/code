@@ -3,6 +3,8 @@ document.addEventListener('DOMContentLoaded', function() {
  var allowedURLs = [
      "https://commingsoonmovies.online",
      "https://hdhub4u.press",
+     "https://movie13plus.blogspot.com",
+     "https://flickthemoviezone.blogspot.com",   
      "https://www.saanime.fun",
      "https://www.movie13plus.store",
 "https://vacancynewstimes.in",
