@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
      "https://www.movie13plus.store",
 "https://vacancynewstimes.in",
      "https://hd4fly.rf.gd",
+     "https://www.movie13plus.store",
      "https://latestmovies4u.com",
      "https://movies4u.buzz",
      "https://vegamoviesnl.fun",
