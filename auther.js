@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
      "https://movie13plus.blogspot.com",
      "https://flickthemoviezone.blogspot.com",   
      "https://www.saanime.fun",
+     "https://ultrafont.blogspot.com",
      "https://www.movie13plus.store",
 "https://vacancynewstimes.in",
      "https://hd4fly.rf.gd",
